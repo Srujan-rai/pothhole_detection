@@ -1,0 +1,5 @@
+train: DatasetSplit/train/images
+val: DatasetSplit/val/images
+
+nc: 1  # Number of classes (e.g., 1 for potholes)
+names: ['pothole']  # Class names
